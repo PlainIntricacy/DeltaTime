@@ -1,6 +1,0 @@
-c:\users\tudor\documents\visual studio 2015\Projects\DeltaTime\DeltaTime\bin\Debug\DeltaTime.exe.config
-c:\users\tudor\documents\visual studio 2015\Projects\DeltaTime\DeltaTime\bin\Debug\DeltaTime.exe
-c:\users\tudor\documents\visual studio 2015\Projects\DeltaTime\DeltaTime\bin\Debug\DeltaTime.pdb
-c:\users\tudor\documents\visual studio 2015\Projects\DeltaTime\DeltaTime\obj\Debug\DeltaTime.csprojResolveAssemblyReference.cache
-c:\users\tudor\documents\visual studio 2015\Projects\DeltaTime\DeltaTime\obj\Debug\DeltaTime.exe
-c:\users\tudor\documents\visual studio 2015\Projects\DeltaTime\DeltaTime\obj\Debug\DeltaTime.pdb
