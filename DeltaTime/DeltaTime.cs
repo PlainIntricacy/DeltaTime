@@ -50,7 +50,9 @@ namespace DeltaTime
             h = q / 3600;
             m = (q % 3600) / 60;
             s = (q % 3600) % 60;
-            Console.WriteLine("Delta time: " + h + " hours, " + m + " minutes, " + s + " seconds.");
+            Console.WriteLine("Delta time:");
+            Console.WriteLine(h + " hours, " + m + " minutes, " + s + " seconds.");
+            Console.WriteLine(String.Format("{0:00}", h) + ":" + String.Format("{0:00}", m) + ":" + String.Format("{0:00}", s));
         }
     }
 }
